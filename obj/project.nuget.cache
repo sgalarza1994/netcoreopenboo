@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "79j9aet653iY7uBLJ+emi8b4rq/ttm/CPR3RTJAGo2SZJGPVqtpCZ2jBx+95cecQ8Cz0SKUfom3OOR8K/NpZ/w==",
+  "success": true,
+  "projectFilePath": "C:\\practice\\dotnet\\CursoWebApi6\\CursoWebApi6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.23.1\\microsoft.identitymodel.abstractions.6.23.1.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.23.1\\microsoft.identitymodel.jsonwebtokens.6.23.1.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\microsoft.identitymodel.logging\\6.23.1\\microsoft.identitymodel.logging.6.23.1.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.23.1\\microsoft.identitymodel.tokens.6.23.1.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\sgalarza\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
